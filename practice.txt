@@ -5,3 +5,8 @@ git add .
 git commit -m "first commit"
 git remote add origin https://github.com/shotakamada/first.git
 git push -u origin main
+mkdir practice.txt
+git add
+git commit -m "econd commit"
+git branch
+git push origin main
