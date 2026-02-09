@@ -10,4 +10,10 @@ git add
 git commit -m "econd commit"
 git branch
 git push origin main
-
+git branch feature-branch
+git checkout feature-branch
+git branch
+practice.txt
+git add .
+git commit -m "3rd commit"
+git push -u origin feature-branch
